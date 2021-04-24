@@ -1,0 +1,13 @@
+s=[0,1,2,3,4,5,6,7,8,9]
+print(s[0:5:1])
+print(s[1:-2])
+print(s[5:])
+print(s[:-1])
+print(s[:])
+print(s[2:-1:2])
+print(s[2:-1:-1])
+print(s[-1:2:-1])
+print(s[::-1])
+a='manikanta'
+print(a[::-1])
+print(a[0:4:1])
